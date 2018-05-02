@@ -74,7 +74,7 @@ Give an example
 
 ## TODO/Feature Requests
 
-
+  - Add feature requests and tasks todo here
 
 ## Contributing
 
