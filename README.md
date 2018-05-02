@@ -72,13 +72,21 @@ Give an example
     the song file should be ford_prefect.wav for the device ford_prefect.
   - log.txt - log file for recording arrival activity
 
-## TODO/Feature Requests
+## Built With
 
-  - Add feature requests and tasks todo here
+
 
 ## Contributing
 
 Please contact <email> for contributing
+  
+## Feature Requests
+
+Late Timer
+ - When someone is late, instead of playing their song, play another file to shame them.
+
+Time to Leave
+ - Set a time to remind people it is time to leave for the day. 
 
 ## Versioning
 
