@@ -2,6 +2,10 @@
 
 Program that searches for known bluetooth devices (by MAC address) and plays a song once that device is found. 
 
+## TODO (immediate next steps and ownership)
+  - DRG: Upload "new" multi-threading program. I will call it v2.x.x (as opposed to the old sequental program v1.x)
+  - Implement feature requests (see below)
+
 ## Getting Started
 
 Results may vary. Development and testing done using the following system:
